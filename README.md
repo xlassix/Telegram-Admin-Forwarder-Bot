@@ -19,12 +19,14 @@ The Telegram Admin Forwarder Bot is a bot designed to automatically forward mess
 
 ```bash
 git clone https://github.com/yourusername/telegram-admin-forwarder-bot.git
+```
 
 3. Install the required dependencies:
 
 ```bash
 cd telegram-admin-forwarder-bot
 npm install
+```
 
 4. Open the bot.js file in a text editor.
 
@@ -42,6 +44,7 @@ npm install
 
 ```bash
 node bot.js
+```
 
 2. Add the bot to the desired group. Only messages sent by the admin will be forwarded.
 
@@ -65,3 +68,9 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 ## Acknowledgements
 
+-  [Telegram Bot API](https://core.telegram.org/bots/api) - Official API documentation provided by Telegram.
+-  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Node.js library for interacting with the Telegram Bot API.
+
+## Contact
+
+For any questions or inquiries, please contact chibundumozia@gmail.com
