@@ -1,5 +1,15 @@
 # Telegram Admin Forwarder Bot
 
+## Table of content
+- [Overview](#overview)
+- [Features](#features)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 A Telegram bot that forwards messages sent by an admin to a specified group.
 
 ## Overview
