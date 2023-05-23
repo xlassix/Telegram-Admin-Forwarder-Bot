@@ -1,0 +1,22 @@
+{
+  "name": "telegram_admin_forwarder_bot",
+  "version": "1.0.0",
+  "description": "A telegram bot that forwards messages sent by an admin to a specified group",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Mozia Precious Chibundu",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
