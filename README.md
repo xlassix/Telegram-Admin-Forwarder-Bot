@@ -42,6 +42,7 @@ npm install
 
 5. Replace 'BOT_API_TOKEN' with the API token obtained from the BotFather.
 
+
 6. Replace 'ADMIN_ID' with the Telegram ID of the admin whose messages should be forwarded.
 
 7. Replace 'GROUP_ID' with the ID of the group which you want to forward the messages.

@@ -12,3 +12,4 @@ bot.on("message", (msg) => {
     bot.forwardMessage(process.env.GROUP_ID, chatId, msg.message_id);
   }
 });
+
