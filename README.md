@@ -38,13 +38,13 @@ cd telegram-admin-forwarder-bot
 npm install
 ```
 
-4. Open the bot.js file in a text editor.
+4. Copy the content of `.env.example` to `.env`
 
-5. Replace 'YOUR_API_TOKEN' with the API token obtained from the BotFather.
+5. Replace 'BOT_API_TOKEN' with the API token obtained from the BotFather.
 
 6. Replace 'ADMIN_ID' with the Telegram ID of the admin whose messages should be forwarded.
 
-7. Replace 'GROUP_ID' with the ID of the group where you want to forward the messages.
+7. Replace 'GROUP_ID' with the ID of the group which you want to forward the messages.
 
 8. Save the changes.
 
