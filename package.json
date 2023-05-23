@@ -1,3 +1,4 @@
+
 {
   "name": "telegram_admin_forwarder_bot",
   "version": "1.0.0",
@@ -17,6 +18,8 @@
   "author": "Mozia Precious Chibundu",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
+
